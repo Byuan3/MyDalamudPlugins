@@ -10,13 +10,13 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/Byuan3/MyDalamudPlugins/master/plugins/SomethingNeedDoing-6.05-CN/images/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/daemitus/MyDalamudPlugins/master/plugins/SomethingNeedDoing-6.05-CN/images/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/Byuan3/MyDalamudPlugins/master/plugins/SomethingNeedDoing-6.05-CN/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/daemitus/MyDalamudPlugins/master/plugins/SomethingNeedDoing-6.05-CN/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/Byuan3/MyDalamudPlugins/master/plugins/SomethingNeedDoing-6.05-CN/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/Byuan3/MyDalamudPlugins/master/plugins/SomethingNeedDoing-6.05-CN/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/daemitus/MyDalamudPlugins/master/plugins/SomethingNeedDoing-6.05-CN/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/daemitus/MyDalamudPlugins/master/plugins/SomethingNeedDoing-6.05-CN/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1652746242"
     }
